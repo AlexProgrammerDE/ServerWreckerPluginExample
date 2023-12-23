@@ -3,7 +3,7 @@
 [plugins]
 
 [libraries]
-serverwrecker-api = "net.pistonmaster:serverwrecker:1.4.0-SNAPSHOT"
+serverwrecker-api = "net.pistonmaster:serverwrecker:1.4.0"
 pf4j = "org.pf4j:pf4j:3.10.0"
 lombok = "org.projectlombok:lombok:1.18.30"
 
